@@ -1,7 +1,5 @@
 # Snake
-Eat the yellow food to grow longer.
-
-Avoid hitting the walls and your body to stay alive.
+The classic game with the goals of eating food to grow longer and avoiding the walls and the snake body to stay alive.
 
 ![snakeGithub](https://github.com/user-attachments/assets/12551b53-936d-4131-be1e-2b8c7c935fcb)
 
