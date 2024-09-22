@@ -1,5 +1,5 @@
 # Snake
-The classic game! Eat the food and avoid the walls and your body!
+The classic game! Eat the food to grow longer. Avoid the walls and your body to stay alive.
 
 ![snakeGithub](https://github.com/user-attachments/assets/12551b53-936d-4131-be1e-2b8c7c935fcb)
 
