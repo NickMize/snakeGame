@@ -4,6 +4,7 @@
 #include <list>
 #include <cstdlib>
 #include <iostream>
+#include <windows.h>
 
 #define GRID_X 30
 #define GRID_Y 20
@@ -113,6 +114,12 @@ int main()
 
     return 0;
 }
+
+int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd) 
+{
+    main();
+}
+
 
 
 void addSquare(char direction, std::list <sf::RectangleShape>* snake)
